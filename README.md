@@ -1,2 +1,2 @@
 # IEEE_Exodus
-IEE Exodus first task
+IEEE Exodus first task
